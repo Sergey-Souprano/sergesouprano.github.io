@@ -5077,12 +5077,12 @@ textarea.form-control-lg {
 
 .list-group-item-action {
   width: 100%;
-  color: #495057;
+  color: #0d0e0f;
   text-align: inherit;
 }
 .list-group-item-action:hover, .list-group-item-action:focus {
   z-index: 1;
-  color: #495057;
+  color: #0d0e0f;
   text-decoration: none;
   background-color: #f8f9fa;
 }
